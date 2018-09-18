@@ -34,7 +34,12 @@ handle any job, large or small.
 Jedds Tree Care
 201 Edward Ave.
 Lansing, MI 48930 
-email:	jeddstree@example.com
+email:	jeddstree@example.com<nav> 
+   <ul>
+      <li><a href="jtc_index_txt.html"> Home</a></li>
+      <li><a href="jtc_services_txt.html">Services</a></li>
+   </ul>
+ </nav>
 phone:	517.555.4811
 
 ====================================================================
